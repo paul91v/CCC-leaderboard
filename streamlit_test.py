@@ -72,7 +72,7 @@ st.markdown("""
     <style>
     .right-text {
         position: fixed;
-        bottom: 10px;
+        bottom: 50px;
         right: 10px;
         font-size: 14px;
         color: #888;
