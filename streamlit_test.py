@@ -38,7 +38,7 @@ with left_col:
     current_level = st.selectbox("Select Student's Level", sorted(final_df['Current Level'].unique()))
 with center_col:
     st.markdown("<h1 style='text-align: center;'>Chennai Chess Club</h1>", unsafe_allow_html=True)
-    st.markdown(f"<h2 style='text-align: center;'>Leaderboard for {current_level}</h1>", unsafe_allow_html=True)
+    st.markdown(f"<h2 style='text-align: center;'>Leaderboard for June - {current_level}</h1>", unsafe_allow_html=True)
     filtered_df = final_df[final_df['Current Level'] == current_level].sort_values(by='Total Points', ascending=False).reset_index(drop=True)
     filtered_df.drop("Current Level", axis = 1, inplace = True)
     filtered_df.index += 1  # Rank starts from 1
