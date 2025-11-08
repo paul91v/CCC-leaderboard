@@ -59,7 +59,7 @@ with left_col:
 
 with center_col:
     st.markdown("<h1 style='text-align: center;'>Chennai Chess Club</h1>", unsafe_allow_html=True)
-    st.markdown(f"<h2 style='text-align: center;'>Leaderboard for October - {current_level}</h1>", unsafe_allow_html=True)
+    st.markdown(f"<h2 style='text-align: center;'>Leaderboard for November - {current_level}</h1>", unsafe_allow_html=True)
     df_height = 35*(filtered_df.shape[0]+1)
     #filtered_df = filtered_df.style.apply(highlight_top_rows, axis=1)
     st.dataframe(filtered_df, use_container_width = True, height = df_height)
