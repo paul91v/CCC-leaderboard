@@ -1,0 +1,632 @@
+,Student Name,Coach,Current Level,Batch,Lichess ID,rapid_games,classical_games,classical_points,rapid_points,total_points
+535,Ushanthan Piravinth,Siddiq Akbar,Level 2C,AESA3,Piravinth0115,1063.0,2.0,100.0,10630.0,10730.0
+0,Siddharth Rupachandran,Venugopal,Level 3,AEVG5,Aquacharmingelephant,105.0,126.0,6300.0,1050.0,7350.0
+22,Satveer,Pankaj,Level 3,AEPS1,Dreaxo_777,92.0,107.0,5350.0,920.0,6270.0
+345,Shrinika Lokeshwaran,Pankaj,Level 3,AEPS3,CCC_ShrinikaLokesh,50.0,113.0,5650.0,500.0,6150.0
+95,Aarush Vasan,Prasanna Kumar,Level 2C,AEPK1,AarushVasan,342.0,35.0,1750.0,3420.0,5170.0
+118,Pratish,Sathyagiri,Level 4,AESG4,Pratish_29,467.0,1.0,50.0,4670.0,4720.0
+63,Saravana,Arun Kumar,Level 3,I30:AK:445,Saro105,24.0,85.0,4250.0,240.0,4490.0
+68,Smrithi,Naveen Kumar K,Level 2C,I30:NK:464,Smrithi_L,14.0,79.0,3950.0,140.0,4090.0
+583,Jake Alston,Pankaj,Level 3,AEPS3,jakeals,324.0,16.0,800.0,3240.0,4040.0
+78,HARSITH,Bala Prashanth,Level 4,AEBP2,harsithb,29.0,69.0,3450.0,290.0,3740.0
+77,HARSITH (Offline),Johnclinton,Level 3,BEJC3,harsithb,29.0,69.0,3450.0,290.0,3740.0
+99,Vigaasan,Nick,Level 2C,AENN1,vigaasantg,109.0,46.0,2300.0,1090.0,3390.0
+230,Keerthan S,Yogram,Level 2B,AEYG6,keerthan11,96.0,45.0,2250.0,960.0,3210.0
+620,Thashvanth ,Siddiq Akbar,Level 2C,AESA3,Thashvanth_k,84.0,46.0,2300.0,840.0,3140.0
+371,Dharukesh S,Sathyagiri,Level 4,AESG4,princey8287,301.0,1.0,50.0,3010.0,3060.0
+305,Thanvin Magilan A,Anandha Kumar,Level 2B,BEAD4,Thanvin,36.0,50.0,2500.0,360.0,2860.0
+250,S Darshan,Yogram,Level 3,AEYG2,Lunar_Lion,133.0,27.0,1350.0,1330.0,2680.0
+571,Jasvik.D,Nick,Level 2C,AENN2,Jasvik_13,256.0,1.0,50.0,2560.0,2610.0
+211,Nidarshana V P ,Nick,Level 2C,AENN1,Nidarshana_vp,97.0,31.0,1550.0,970.0,2520.0
+445,Namachivayam ,EbenzerAnto,Level 2A,AEEB3,Namash,140.0,21.0,1050.0,1400.0,2450.0
+186,Rayanika,Varun,Level 4,I60-VA-981,Rayanika,2.0,47.0,2350.0,20.0,2370.0
+18,Sathvik,EbenzerAnto,Level 3,BEEB1,saty07,183.0,8.0,400.0,1830.0,2230.0
+286,Rudransh Kumar,Jagadeesh,Level 2C,I60-JG-1242,rudranshkumar0611,68.0,31.0,1550.0,680.0,2230.0
+290,Vignesh S,Vishwa,Level 3,BEVI1,VICKYKUTTU,12.0,42.0,2100.0,120.0,2220.0
+292,D L Vishanth,Subbu,Level 3,I60-Su-1255,vishanthdl,105.0,23.0,1150.0,1050.0,2200.0
+112,SR Arulshri Mathibali,EbenzerAnto,Level 3,BEEB1,arulshrimathibali,203.0,1.0,50.0,2030.0,2080.0
+548,kapirath vivekkumar,Bala Prashanth,Level 4,AEBP2,Kapirathv,189.0,3.0,150.0,1890.0,2040.0
+395,Khidmat Kaur ,Dhithrabrata Kundu,Level 3,I60:DK:1459,khidmat2019,112.0,17.0,850.0,1120.0,1970.0
+124,B.Prajin,Ashwin A,Level 2C,AEAS2,Prajin7092835,176.0,4.0,200.0,1760.0,1960.0
+501,Satvik Gouda,Dhithrabrata Kundu,Level 5,I60:DK:1668,OISCHNPA_SATVIKG,129.0,13.0,650.0,1290.0,1940.0
+136,Vedh Gautham,Hari Krishnan,Level 2C,AEHK1,VedhGautham,108.0,17.0,850.0,1080.0,1930.0
+208, Jovitha Bandaru ,Varsha,Level 2C,AEVS4,jovitha_2015,127.0,13.0,650.0,1270.0,1920.0
+423,Aiden Vignesh,Arun Kumar,Level 3,AEAK3,aiden_v,64.0,25.0,1250.0,640.0,1890.0
+503,Advik Baskaran,Pankaj,Level 3,AEPS1,mailtoadvik,162.0,5.0,250.0,1620.0,1870.0
+326,Dhiren Nath,Bala Prashanth,Level 4,I60:BP:1327,dhirennath,146.0,8.0,400.0,1460.0,1860.0
+180, V. Aadhira,Anandha Kumar,Level 2B,BEAD4,Aadhira2704,126.0,11.0,550.0,1260.0,1810.0
+36,Madhumitha,Yogram,Level 3,I60:YG:308,Madhusab,18.0,32.0,1600.0,180.0,1780.0
+156,Aarav P.H,Achaya,Level 2C,AEAC2,Aaravphheyrad,173.0,1.0,50.0,1730.0,1780.0
+562, Velamuri Hareendra Reddy,Sourath Biswas,Level 5,AESRB1,hareendra_reddy,38.0,27.0,1350.0,380.0,1730.0
+479,Faraz kamal,Jagadeesh,Level 2C,BEJG11,Farazkamal,173.0,0.0,0.0,1730.0,1730.0
+438,Jeremiah John Rahmi ,Ashwin A,Level 2B,BEAS3,plrjjr,66.0,21.0,1050.0,660.0,1710.0
+11,Lakshini,Pankaj,Level 3,AEPS3,LAKSHINI,144.0,5.0,250.0,1440.0,1690.0
+197,Ragul K ,Vishwa,Level 3,BEVI1,ragulkchess,107.0,12.0,600.0,1070.0,1670.0
+12,Sai Shravan PM,Sathyagiri,Level 3,AESG2,SaiShravanpm,83.0,15.0,750.0,830.0,1580.0
+586,Siddharth Rishivardhan R,Varsha,Level 2B,AEVS5,SiddharthRishivardha,107.0,10.0,500.0,1070.0,1570.0
+237,Pranithi chandrasekar,Ashwin A,Level 3,AEAS1,Pranithi,83.0,14.0,700.0,830.0,1530.0
+45,M.Aakash,Venugopal,Level 3,AEVG5,jm_aakash,147.0,1.0,50.0,1470.0,1520.0
+178,A.Santos Joel Valentine ,Ashwin A,Level 2B,BEAS3,santosjoelvalentine,137.0,3.0,150.0,1370.0,1520.0
+294,Saravanan Balasubramaniam,Anandha Kumar,Level 4,I30:AD:1262,Saranticks,147.0,1.0,50.0,1470.0,1520.0
+539,Riddhi Agrawal,Pankaj,Level 3,AEPS3,AGRAWAL_RIDDHI,71.0,16.0,800.0,710.0,1510.0
+249,Pratheksaai Dhuvarakesh,Siddharth Kambli,Level 2B,AESK2,ccc_Pratheksaai_1155,31.0,24.0,1200.0,310.0,1510.0
+152,Jervis L Kingstein,Subbu,Level 2C,AESu11,jervislkingstein,100.0,10.0,500.0,1000.0,1500.0
+373,Shaheer S R,Yogram,Level 2B,AEYG6,ccc_Shaheer_1409,60.0,18.0,900.0,600.0,1500.0
+473,Bhavagna P,Naveen Kumar K,Level 3,AENK1,PBhavagna,26.0,24.0,1200.0,260.0,1460.0
+33,Prasenjit Ishwar Jambhale,Subbu,Level 5,AESu3,Mybestfriendme,146.0,0.0,0.0,1460.0,1460.0
+15,Mithran J,Subbu,Level 5,AESu3,Mithransabari,144.0,0.0,0.0,1440.0,1440.0
+441,Aarushi A,Sathyagiri,Level 2C,AESG3,Aarushi_0127,143.0,0.0,0.0,1430.0,1430.0
+347,Ridesh,Sathyagiri,Level 3,BESG1,Ridesh2017,106.0,7.0,350.0,1060.0,1410.0
+287,Swaranjali Modi,Ashwin A,Level 2B,AEAS4,Swaranjali_123,50.0,17.0,850.0,500.0,1350.0
+240,Hariharasuthan N,Venugopal,Level 4,AEVG4,hariharasuthann2014,70.0,13.0,650.0,700.0,1350.0
+56,Sri Pranesh V N,Ashwin A,Level 3,AEAS1,Sripranesh,39.0,19.0,950.0,390.0,1340.0
+209,Jia Bandaru,Varsha,Level 2C,AEVS4,Jia_777,104.0,6.0,300.0,1040.0,1340.0
+132,Aarriv Venkatesh ,Ashwin A,Level 3,AEAS1,Aarriv,46.0,17.0,850.0,460.0,1310.0
+187,Bhairav,Vishwa,Level 3,BEVI2,bhairav_s,128.0,0.0,0.0,1280.0,1280.0
+182,T.Siddarth,Yogram,Level 3,AEYG4,chroem123,126.0,0.0,0.0,1260.0,1260.0
+282,Sanjith Kumar R,Johnclinton,Level 3,BEJC3,SanjithkumarR,106.0,4.0,200.0,1060.0,1260.0
+52,J.Harshiv,Yogram,Level 3,AEYG3,J_Harshiv,46.0,16.0,800.0,460.0,1260.0
+456,K.Darshan,Venugopal,Level 4,AEVG4,Darshan0703,91.0,7.0,350.0,910.0,1260.0
+261,Madhumathi Ravi,Jagadeesh,Level 2B,I30:JG:1174,Madshow,11.0,23.0,1150.0,110.0,1260.0
+472,Krishiv Razdan,Dhithrabrata Kundu,Level 2C,AEDK2,KrishivRazdan,117.0,1.0,50.0,1170.0,1220.0
+235,Mithran A,Mohana,Level 2B,AEMH3,MithranA26,117.0,0.0,0.0,1170.0,1170.0
+572,Deekshan Pradeep Kumar,Jagadeesh,Level 2A,AEJG4,Deekshan28,57.0,12.0,600.0,570.0,1170.0
+82,Sai Vetri Selvan,EbenzerAnto,Level 2C,I30:EB:519,Saivetri2015,91.0,5.0,250.0,910.0,1160.0
+570,Arun Kumar kannan,Meiyappan,Level 3,AEMI3,akannan0423,86.0,6.0,300.0,860.0,1160.0
+412,Jeevan,Venugopal,Level 3,AEVG3,jeevan14p,53.0,12.0,600.0,530.0,1130.0
+142,Krishiv K H,Varsha,Level 2B,AEVS1,Masterkrishivkh,93.0,4.0,200.0,930.0,1130.0
+61,Vishwa dev,Bala Prashanth,Level 3,I30:BP:434,Vishwadev18,111.0,0.0,0.0,1110.0,1110.0
+316,Dakshidh Mithran P,Jagadeesh,Level 2A,AEJG6,Dakshidhmithran,45.0,13.0,650.0,450.0,1100.0
+278,Antony Eshaan E,Anandha Kumar,Level 5,A90:AD:1214,antony_eshaan,24.0,17.0,850.0,240.0,1090.0
+355,Karunya V,Sathyagiri,Level 2C,AESG3,Karunyav,109.0,0.0,0.0,1090.0,1090.0
+463,Tejas Kalmadi,Dhithrabrata Kundu,Level 2C,AEDK1,TejasK_16,102.0,1.0,50.0,1020.0,1070.0
+448,Vedhamitran,Varsha,Level 2A,MEVS7,VedhamitranTM,79.0,5.0,250.0,790.0,1040.0
+72,Vehanth,Yogram,Level 2C,AEYG5,Vehanth,34.0,14.0,700.0,340.0,1040.0
+273,Sai Ragavi,Jagadeesh,Level 2B,AMJG14,saineel_15,34.0,14.0,700.0,340.0,1040.0
+84,Pramod ,Johnclinton,Level 3,BEJC3,pramoddharma,23.0,16.0,800.0,230.0,1030.0
+280,Ezrael Antimus Rodriguez,Kowsalya ,Level 2B,AEKS2,Ezraelantimus,93.0,2.0,100.0,930.0,1030.0
+201,HARSHAD BASKAR,Arun Kumar,Level 3,AEAK2,Deathrider_365,98.0,1.0,50.0,980.0,1030.0
+487,Navanthika Rajkumar,Siddiq Akbar,Level 2A,AESA6,ccc_Navanthika_1637,100.0,0.0,0.0,1000.0,1000.0
+107,S.I.Maanyaa,Nick,Level 2C,AENN1,Maanyaa01,65.0,7.0,350.0,650.0,1000.0
+231,Ch Veda Parnika,Mohana,Level 2B,AEMH3,vedaparnika,99.0,0.0,0.0,990.0,990.0
+300,Riaan S,Kowsalya ,Level 2B,AEKS1,Riaan2019Born,99.0,0.0,0.0,990.0,990.0
+329,Aadhira.S ,Bala Prashanth,Level 3,I60:BP:515,Aadhirasanthosh,99.0,0.0,0.0,990.0,990.0
+616,Shrishanth,Venugopal,Level 3,AEVG3,ShrishanthSai1,99.0,0.0,0.0,990.0,990.0
+400, H Mohammed Affan,Sathyagiri,Level 3,AESG2,mohammedaffan,73.0,5.0,250.0,730.0,980.0
+495,Samyukkthaa P,Nick,Level 3,I60:NN:1475,samyu1411,17.0,16.0,800.0,170.0,970.0
+223,Vishvanesh V,Arka Dutta,Level 2B,AEAR4,Vishvanesh,96.0,0.0,0.0,960.0,960.0
+96,Neyah Varun,Prasanna Kumar,Level 2C,AEPK1,Neyah_Varun,96.0,0.0,0.0,960.0,960.0
+90,Satchit,Arun Kumar,Level 3,AEAK2,imp669,95.0,0.0,0.0,950.0,950.0
+17,Johan,EbenzerAnto,Level 3,BEEB1,johanipem,89.0,1.0,50.0,890.0,940.0
+415,Theerth KM,Naveen Kumar K,Level 2A,AENK2,Theerth21,92.0,0.0,0.0,920.0,920.0
+330,yashika.k,Varsha,Level 2A,I30:VS:1333,aishukarthik1303,91.0,0.0,0.0,910.0,910.0
+149,Srihan Madhankumar,Subbu,Level 2C,AESu11,srihan_chess,30.0,12.0,600.0,300.0,900.0
+176, Srikar Vardhan,Kowsalya ,Level 2B,AEKS1,srikarvardhan,89.0,0.0,0.0,890.0,890.0
+21,Subashri,Venugopal,Level 4,AEVG4,svsubi193,73.0,3.0,150.0,730.0,880.0
+312,Subhasri,Sathyagiri,Level 4,I60:SG:1305,svsubi193,73.0,3.0,150.0,730.0,880.0
+281,Samarjith Kumar R,Johnclinton,Level 3,BEJC3,SamarjithKumar,87.0,0.0,0.0,870.0,870.0
+492,Bhavyaashri B,Mohana,Level 2A,AEMH2,Bhavyaashri,86.0,0.0,0.0,860.0,860.0
+144,U.Sujan,Varsha,Level 2B,AEVS1,sujan2018,83.0,0.0,0.0,830.0,830.0
+365,P Dhakshan Raj,Anandha Kumar,Level 2A,AEAD5,dhakshan_12345,13.0,14.0,700.0,130.0,830.0
+450,Sricharan Stiram,Ashwin A,Level 2B,BEAS3,Sriram1288,82.0,0.0,0.0,820.0,820.0
+262,Gowribhadra K A,Jagadeesh,Level 2A,AEJG2,Gowribhadra,15.0,13.0,650.0,150.0,800.0
+120, S. Rishvik,Prasanna Kumar,Level 2C,AEPK1,rishvik2020,80.0,0.0,0.0,800.0,800.0
+276,Adhip S,Arka Dutta,Level 2B,AEAR4,ccc_Adhip_1211,73.0,1.0,50.0,730.0,780.0
+354,Razana Fathima A,Anandha Kumar,Level 2A,AEAD5,razanafathima_25,45.0,6.0,300.0,450.0,750.0
+155,Akilan S,Subbu,Level 2C,AESu11,Akilan07,75.0,0.0,0.0,750.0,750.0
+363,Drishaanth P,Sathyagiri,Level 3,AESG2,Drishu27,34.0,8.0,400.0,340.0,740.0
+536,V.Hashwanth,Nick,Level 2C,AENN1,Hashwanth_18,64.0,2.0,100.0,640.0,740.0
+320,Kiranya Sree,Jagadeesh,Level 2B,AMJG14,KiranyaH,23.0,10.0,500.0,230.0,730.0
+53,Neal Parwani,Gowtham,Level 3,AEGT1,Neal_Parwani,73.0,0.0,0.0,730.0,730.0
+383,Krithik K,Sathyagiri,Level 4,AESG4,kkk_m,73.0,0.0,0.0,730.0,730.0
+621,G Revanth ,Siddiq Akbar,Level 2C,AESA3,Revanth777,73.0,0.0,0.0,730.0,730.0
+200,Evelyn Anna George,Varsha,Level 2B,AEVS3,EarthyLawyer,36.0,7.0,350.0,360.0,710.0
+403,Saisaran S,Bala Prashanth,Level 2C,AEBP4,Saisaran_NS,71.0,0.0,0.0,710.0,710.0
+24,Ashvika GV,Gowtham,Level 3,AEGT1,Ashvikagv,70.0,0.0,0.0,700.0,700.0
+605,Vishrudh.S ,Sathyagiri,Level 3,AESG2,vishrudh_the_warrior,60.0,2.0,100.0,600.0,700.0
+406,VISHWA,Puviraj,Level 2A,AEPu8,VishwaMaster2,66.0,0.0,0.0,660.0,660.0
+475, Samhitha B,Subbu,Level 3,I60:Su:1610,sana_sbs,31.0,7.0,350.0,310.0,660.0
+85,A.A.Tosika,Sathyagiri,Level 2C,AESG3,AATOSIKA0101,41.0,5.0,250.0,410.0,660.0
+505,Vaibhav,Sourath Biswas,Level 5,AESRB1,VaibhavSenthilkumar,61.0,1.0,50.0,610.0,660.0
+360,Satvik B,Jagadeesh,Level 2B,AMJG14,satvikbsg1516,40.0,5.0,250.0,400.0,650.0
+199,Gurubaran Maruthachalamoorthy,Varsha,Level 2B,AEVS5,Gurubaran2017,59.0,1.0,50.0,590.0,640.0
+83,Dhiluushan H R ,Venugopal,Level 3,AEVG3,dhiluushanhr,64.0,0.0,0.0,640.0,640.0
+80,M.R.Meha,Sathyagiri,Level 5,I60:SG:515,Attacker2025,58.0,1.0,50.0,580.0,630.0
+344,Tariq Mohamed,Dhithrabrata Kundu,Level 2B,AEDK4,Tariq_031414,58.0,1.0,50.0,580.0,630.0
+414,Samarth Chetry,Venugopal,Level 3,AEVG1,Samarth0129,48.0,3.0,150.0,480.0,630.0
+389,Ehan Ahmed E,EbenzerAnto,Level 2A,BEEB2,EhanAhmed07,53.0,2.0,100.0,530.0,630.0
+212,Hayagreev P,Nick,Level 3,AMNN3,Hayagreevprasanna,62.0,0.0,0.0,620.0,620.0
+183, Ch.Yathin Shreehas,Siddiq Akbar,Level 2C,AESA3,yathin2011,51.0,2.0,100.0,510.0,610.0
+174,S. Shayan,Siddiq Akbar,Level 2C,AESA3,Shayan_S,61.0,0.0,0.0,610.0,610.0
+343,Adya Harin  A,Yogram,Level 3,I60:YG:1351,Adyaharin,41.0,4.0,200.0,410.0,610.0
+334,Kelvin Aghashahi,Puviraj,Level 2B,AEPu6,kelvin_a,35.0,5.0,250.0,350.0,600.0
+468,joashpaul,Bala Prashanth,Level 2C,AEBP5,Joashpaul,0.0,12.0,600.0,0.0,600.0
+511,Rajveer Sachindra Mahalle,Sourath Biswas,Level 5,AESRB1,rajveersachindra15,50.0,2.0,100.0,500.0,600.0
+361,K Jagan,Meiyappan,Level 3,AEMI3,kjagan2,60.0,0.0,0.0,600.0,600.0
+229,K Taneesh Rana,Varsha,Level 2B,AEVS8,tanutansikalai,59.0,0.0,0.0,590.0,590.0
+110,Shakshitha S,Nick,Level 2C,AENN2,shakshitha,59.0,0.0,0.0,590.0,590.0
+474,Sanjay Krishnan.D,Sathyagiri,Level 4,AESG4,Sanjaykrish2510,59.0,0.0,0.0,590.0,590.0
+480,P.Sujay Aadhith ,Mohana,Level 2A,AEMH2,Aadhith2019,59.0,0.0,0.0,590.0,590.0
+408,Havish Srivatsav  Kara,Vishwa,Level 3,BEVI2,animekid123_13,53.0,1.0,50.0,530.0,580.0
+560,V MOKSHITHA ,Arun Kumar,Level 3,AEAK2,MOKSHI_V,58.0,0.0,0.0,580.0,580.0
+446,PRITHVI SAI,Varsha,Level 2B,AEVS5,PRITHVISAIAG,48.0,2.0,100.0,480.0,580.0
+222,Jasvitha K,Yogram,Level 2B,AEYG6,Jasvithaccc,33.0,5.0,250.0,330.0,580.0
+341,Sidharth N,Bala Prashanth,Level 2C,AEBP4,Sidharthnindia,43.0,3.0,150.0,430.0,580.0
+225,Pranav Liam P A,Kowsalya ,Level 2B,AEKS2,Pranav-liam,12.0,9.0,450.0,120.0,570.0
+317,V Saikrishna,Jagadeesh,Level 2A,AEJG6,saikrishna19,36.0,4.0,200.0,360.0,560.0
+251,Dhiya,Naveen Kumar K,Level 3,AENK1,dhiyarocker,36.0,4.0,200.0,360.0,560.0
+422,Satvath,Jagadeesh,Level 2C,BEJG11,DSatvath,56.0,0.0,0.0,560.0,560.0
+608,Lakshminaren K,Subbu,Level 2C,AESu11,Lakshminaren,56.0,0.0,0.0,560.0,560.0
+151,RK.Brihadeesh,Subbu,Level 2B,AESu10,BrihadeeshRk,55.0,0.0,0.0,550.0,550.0
+44,Krushanth K,Johnclinton,Level 3,BEJC3,KRUSHANATH,24.0,6.0,300.0,240.0,540.0
+1,Swarup Athith,Subbu,Level 5,AESu3,swaroopathith,53.0,0.0,0.0,530.0,530.0
+573,Muhammad Hannan,Subbu,Level 2C,BESu7,HannanAz,33.0,4.0,200.0,330.0,530.0
+498,Lakshith ,Sathyagiri,Level 2C,AESG3,Lakshith_P,52.0,0.0,0.0,520.0,520.0
+47,Dandlamudi Siva Shriyaan,Puviraj,Level 3,BEPu2,SivaShriyaan2016,52.0,0.0,0.0,520.0,520.0
+461,Darsh Vignesh,Sathyagiri,Level 3,AESG2,darshvignesh,52.0,0.0,0.0,520.0,520.0
+79,Prajan Sai,Sathyagiri,Level 2C,AESG3,prajansai,51.0,0.0,0.0,510.0,510.0
+32,Corin jasper,EbenzerAnto,Level 3,BEEB1,Corin_Jasper,51.0,0.0,0.0,510.0,510.0
+104,Prajwal Dupati,Ashwin A,Level 3,AEAS1,PrajwalDupati,51.0,0.0,0.0,510.0,510.0
+366,KRITHVIK B,Sathyagiri,Level 3,AESG2,KrithvikB,51.0,0.0,0.0,510.0,510.0
+452,Manisha T,Varsha,Level 2B,AEVS3,Manisha_Thirumani,45.0,1.0,50.0,450.0,500.0
+315,Shaashwat M,Puviraj,Level 2A,AEPu5,mpshaashu,50.0,0.0,0.0,500.0,500.0
+484, Akshan K,Varsha,Level 2B,AEVS1,akshankast,39.0,2.0,100.0,390.0,490.0
+258,Sangamithra S,Yogram,Level 3,AEYG4,Mithu2015,39.0,2.0,100.0,390.0,490.0
+116,Vrushabadev,Naveen Kumar K,Level 3,AENK1,rishu_nambi,14.0,7.0,350.0,140.0,490.0
+546,Nahul Narendar ,Swarnamala,Level 2B,BESWM7,nahulnarendar,48.0,0.0,0.0,480.0,480.0
+518,Nayanikaa,Sathyagiri,Level 2C,AESG3,nayanikaa,48.0,0.0,0.0,480.0,480.0
+545,Vignesh C G,EbenzerAnto,Level 2A,AEEB3,VigneshCg,48.0,0.0,0.0,480.0,480.0
+205,D Vihaan,Jagadeesh,Level 2A,AEJG4,VihaanDwarakanath,42.0,1.0,50.0,420.0,470.0
+447,Ayushman S,Vishwa,Level 3,BEVI2,Ayushman_Sriram,45.0,0.0,0.0,450.0,450.0
+432,Chintala Manvik,Arka Dutta,Level 2B,AEAR5,C_Manvik_Mudiraj,45.0,0.0,0.0,450.0,450.0
+75,P.Kashwini,Sathyagiri,Level 3,BESG1,Kashwini_06,45.0,0.0,0.0,450.0,450.0
+494,Vinayak,Jagadeesh,Level 2A,AEJG6,vinayak_8686,39.0,1.0,50.0,390.0,440.0
+551,Sashana. P,Bala Prashanth,Level 4,AEBP2,sashanaP,39.0,1.0,50.0,390.0,440.0
+207, Nishant Ramesh,Arun Kumar,Level 3,AEAK3,Nishantramesh2012,44.0,0.0,0.0,440.0,440.0
+285,Lakshan Sai . K.S,Mohana,Level 2B,AEMH1,Kslakshansai,44.0,0.0,0.0,440.0,440.0
+439,Adhya Arun,Dhithrabrata Kundu,Level 2C,AEDK2,adhya_arun_03,19.0,5.0,250.0,190.0,440.0
+459,K.Uthiraapathy,Arun Kumar,Level 3,AEAK2,Uthiraapathy,23.0,4.0,200.0,230.0,430.0
+260,Ameen,Naveen Kumar K,Level 2A,AENK2,AmeenSulthan,43.0,0.0,0.0,430.0,430.0
+76,Achyuth Ram B,Sathyagiri,Level 3,BESG1,AchyuthRam26,23.0,4.0,200.0,230.0,430.0
+592,Naman,Achaya,Level 2B,AEAC3,Naman_2016,42.0,0.0,0.0,420.0,420.0
+247,Shraey Chaitnya,Swarnamala,Level 2B,BESWM7,shraeychaitnya,42.0,0.0,0.0,420.0,420.0
+275,Vihaan M.A,Siddharth Kambli,Level 2B,AESK2,Vihaan0901,42.0,0.0,0.0,420.0,420.0
+25,Anushdhita,Venugopal,Level 3,AEVG1,anubommi,22.0,4.0,200.0,220.0,420.0
+453,Subhiksha T,Varsha,Level 2B,AEVS2,Subhiksha_Thirumani,31.0,2.0,100.0,310.0,410.0
+549,Trishva L. K,Bala Prashanth,Level 2C,AEBP5,Trishva,41.0,0.0,0.0,410.0,410.0
+239,Yogamithran,Jagadeesh,Level 2A,AEJG3,mithraninaction,11.0,6.0,300.0,110.0,410.0
+421,Riya Pradeep,Puviraj,Level 3,BEPu2,riyarose,40.0,0.0,0.0,400.0,400.0
+188,Shritik,Arun Kumar,Level 3,AEAK3,Shritikshv,40.0,0.0,0.0,400.0,400.0
+158,Nafisa Ishaq,Subbu,Level 2C,AESu9,Nafisa_ishaq,25.0,3.0,150.0,250.0,400.0
+429,A Sudhesan,Anandha Kumar,Level 3,I30:AD:419,sudhesan001,40.0,0.0,0.0,400.0,400.0
+622,Vaithiyanathan Muthukumar,Siddiq Akbar,Level 2C,AESA3,vaithi7,38.0,0.0,0.0,380.0,380.0
+266,Aksharaa,Naveen Kumar K,Level 2A,AENK2,aksharaal,28.0,2.0,100.0,280.0,380.0
+270,Anjana Matangi Kartik,Ashwin A,Level 2C,I30:AS:1197,donuts_anjana,38.0,0.0,0.0,380.0,380.0
+64,S.R.Sreeghan Ram,Jagadeesh,Level 2C,BEJG11,sreeghan4chess,33.0,1.0,50.0,330.0,380.0
+559,VENKATESAN V G,Vishwa,Level 3,BEVI1,VG_VENKATESAN,38.0,0.0,0.0,380.0,380.0
+600,Amalan Sriram,Dhithrabrata Kundu,Level 4,I60:DK:1892,Amalan11,12.0,5.0,250.0,120.0,370.0
+590,Ganapathi Sukeerth V V S,Venugopal,Level 4,AEVG4,lachat3sukeerth,37.0,0.0,0.0,370.0,370.0
+277,Adarsh Naveen,Yogram,Level 3,AEYG4,DavAdarshNaveen1D,37.0,0.0,0.0,370.0,370.0
+19,Vibhisshanar,Yogram,Level 3,AEYG4,Vibhisshanar,37.0,0.0,0.0,370.0,370.0
+13,Meiyappan R,Subbu,Level 5,BESu8,noblitz-oblige,36.0,0.0,0.0,360.0,360.0
+43,Prithvik Sanujan,Pankaj,Level 3,AEPS1,prithvik_san,21.0,3.0,150.0,210.0,360.0
+192, S.Sarvesh,Varsha,Level 2B,AEVS3,ssarveshapr12,31.0,1.0,50.0,310.0,360.0
+184, K.Tanusri,Ramanan,Level 2B,AERMN1,tanueager2learnchess,36.0,0.0,0.0,360.0,360.0
+242,Neha Karthick ,Jagadeesh,Level 2B,AMJG14,NehaKarthick,16.0,4.0,200.0,160.0,360.0
+220,Aadhrith,Arka Dutta,Level 2B,AEAR4,Aadhrith29,21.0,3.0,150.0,210.0,360.0
+528,Hemanika S.P,Varsha,Level 2B,AEVS2,HemanikaSP,36.0,0.0,0.0,360.0,360.0
+527, Amruta Sri,Sathyagiri,Level 2A,AESG5,amrutarajaganapathy,36.0,0.0,0.0,360.0,360.0
+370,Adhvik Arunbalaji,Mohana,Level 2A,AEMH4,AdhvikArunbalaji,35.0,0.0,0.0,350.0,350.0
+51,Keshika Sri,Yogram,Level 3,AEYG4,rvkeshi_2330,35.0,0.0,0.0,350.0,350.0
+496,Rini Pradeep,Anandha Kumar,Level 2B,BEAD4,Rinirabbit,35.0,0.0,0.0,350.0,350.0
+325,Samanvetha,Sathyagiri,Level 4,AESG4,QueenGambitGirl,14.0,4.0,200.0,140.0,340.0
+552,RAGHAV,Guru ,Level 2A,AEGU5,raghavparanthaman,34.0,0.0,0.0,340.0,340.0
+512, V.V.Mahanth,Hari Krishnan,Level 2C,I60:HK:1695,Mahanth_V,28.0,1.0,50.0,280.0,330.0
+410,Sharvin Shakthi,Puviraj,Level 2A,AEPU8,SharvinThy,28.0,1.0,50.0,280.0,330.0
+455,V N Sri Pranaav,Ashwin A,Level 2B,AEAS4,sripranaav,28.0,1.0,50.0,280.0,330.0
+470,Harshiv ,Sathyagiri,Level 2A,AESG5,Harshiv_0516,32.0,0.0,0.0,320.0,320.0
+617,Rajanimalan,Varsha,Level 2B,AEVS5,Rajanimalanchess,32.0,0.0,0.0,320.0,320.0
+73,Sivesh Alluri,Pankaj,Level 3,I60:PS:484,siveshalluri1,32.0,0.0,0.0,320.0,320.0
+483,Pugalenthi Visvanathan,Yogram,Level 3,AEYG3,pugal5,22.0,2.0,100.0,220.0,320.0
+610,Dakshin,Subbu,Level 5,AESu3,CCCDakshin,31.0,0.0,0.0,310.0,310.0
+437,Harish V,Subbu,Level 2C,AESu9,ccc_Harish_552,21.0,2.0,100.0,210.0,310.0
+168,Advaith,Venugopal,Level 4,AEVG4,Adsgod02,31.0,0.0,0.0,310.0,310.0
+627,P.Parimala ,EbenzerAnto,Level 2A,AEEB3,Prabhala,1.0,6.0,300.0,10.0,310.0
+504,Ayaan yukash ,Manickakesavan,Level 2A,I60:MK:1681,Ayaan75,30.0,0.0,0.0,300.0,300.0
+298,Samrudh R,Jagadeesh,Level 2A,AEJG6,Samrudh_333,0.0,6.0,300.0,0.0,300.0
+508,Magizh Mithra,Mohana,Level 2B,AEMH1,Magizh22,30.0,0.0,0.0,300.0,300.0
+624,Niranjan Aravind,EbenzerAnto,Level 2A,BEEB2,NiranNiha,15.0,3.0,150.0,150.0,300.0
+418, Surya,Jagadeesh,Level 2A,BEJG12,Surya05092017,5.0,5.0,250.0,50.0,300.0
+607,Himansh Malpani,Mohana,Level 2B,AEMH3,himanshmalpani,30.0,0.0,0.0,300.0,300.0
+611,Sai Balan A,Bala Prashanth,Level 4,AEBP2,SaiBalan0209,29.0,0.0,0.0,290.0,290.0
+321,Vasudev Bipin Nair,Jagadeesh,Level 2A,AEJG6,V_TheSlayer,9.0,4.0,200.0,90.0,290.0
+568,A.R.Dashwanth,Pankaj,Level 3,AEPS3,Dashwanth_AR,29.0,0.0,0.0,290.0,290.0
+485,YAATHIRAVENBHA KARTHI,Nick,Level 2C,AENN1,Yaathiravenbha,19.0,2.0,100.0,190.0,290.0
+332,Nerella Giridhar,Achaya,Level 2B,AEAC3,nerellagiridhar,24.0,1.0,50.0,240.0,290.0
+469, Linghashrith ,Varsha,Level 2A,MEVS7,Linghashrith,29.0,0.0,0.0,290.0,290.0
+339,PRAVIT S,Mohana,Level 2B,AEMH1,pravijeevi,29.0,0.0,0.0,290.0,290.0
+215,Rio Johan M,Arka Dutta,Level 2B,AEAR4,riojohanm,29.0,0.0,0.0,290.0,290.0
+139, Spoorthi Suryaprakash,Ram Natraj,Level 2B,I30-RN-744,alittleone,29.0,0.0,0.0,290.0,290.0
+465,Nishanth Padmanabhan C V,EbenzerAnto,Level 2A,AEEB3,nishanthcv,29.0,0.0,0.0,290.0,290.0
+198, Nithilan S,Anandha Kumar,Level 2B,BEAD4,Nithilan_S,28.0,0.0,0.0,280.0,280.0
+595,Ethan Adarsh,Bala Prashanth,Level 4,AEBP2,Cruzerblade14,28.0,0.0,0.0,280.0,280.0
+170,A.R.Nishwanth,Dhithrabrata Kundu,Level 2C,AEDK2,Nishwanth_AR,28.0,0.0,0.0,280.0,280.0
+331,Remilda Dipsha P,Gowtham,Level 3,AEGT1,Remo17,28.0,0.0,0.0,280.0,280.0
+113,SR Anjanai Priya,EbenzerAnto,Level 3,BEEB1,anjanaipriya,28.0,0.0,0.0,280.0,280.0
+615, Krithik Jayakumar,Ramanan,Level 2B,AERMN1,Krithik456,27.0,0.0,0.0,270.0,270.0
+476,Seshanth,Meiyappan,Level 3,AEMI3,Seshanth1324,27.0,0.0,0.0,270.0,270.0
+126,L.Saitaman,Bala Prashanth,Level 2C,AEBP4,ccc_Saitaman_662,27.0,0.0,0.0,270.0,270.0
+111,Ranjani Karthik,Nick,Level 2C,AENN2,RanjaniKarthik,17.0,2.0,100.0,170.0,270.0
+271,Nikshitram,Bala Prashanth,Level 2C,AEBP1,sugansivanr,27.0,0.0,0.0,270.0,270.0
+121,Athvik Srikanth,Yogram,Level 3,AEYG3,athvik_srikanth,26.0,0.0,0.0,260.0,260.0
+35,Mivaan,Pankaj,Level 2C,A60:PS:307,MivaanMaturi,26.0,0.0,0.0,260.0,260.0
+375,Avyakth,EbenzerAnto,Level 3,BEEB1,Adamakbar,26.0,0.0,0.0,260.0,260.0
+114,R.Harsath,Nick,Level 2C,AENN2,HarsathRaja10,26.0,0.0,0.0,260.0,260.0
+397,Advik Singh,Arka Dutta,Level 2B,AEAR5,advik052020,26.0,0.0,0.0,260.0,260.0
+267,Nyra V,Varsha,Level 2B,AEVS5,Nyra-Vinodh,26.0,0.0,0.0,260.0,260.0
+224, N Varshana,Yogram,Level 2B,AEYG6,varshana_n,25.0,0.0,0.0,250.0,250.0
+416,Anish Raja V,EbenzerAnto,Level 3,BEEB1,AnishRajaV,25.0,0.0,0.0,250.0,250.0
+185,G Pranav,Subbu,Level 2C,AESU9,gp2015chess,25.0,0.0,0.0,250.0,250.0
+359,Ipshetha N,Anandha Kumar,Level 2A,AEAD5,ipshetha_n,25.0,0.0,0.0,250.0,250.0
+244,Tara,Venugopal,Level 3,AEVG5,tara7777,15.0,2.0,100.0,150.0,250.0
+338,JEEVITH S,Puviraj,Level 2B,AEPu6,sjeevith,25.0,0.0,0.0,250.0,250.0
+134,E. Ezhil Iniya,Hari Krishnan,Level 2C,AEHK1,iniyA13,25.0,0.0,0.0,250.0,250.0
+467,Thiyasri,Sathyagiri,Level 2A,AESG5,thiyasrik,25.0,0.0,0.0,250.0,250.0
+324,Samaira,EbenzerAnto,Level 2A,BEEB2,samaira_2105,0.0,5.0,250.0,0.0,250.0
+129,Shrijith Mahesh,Ashwin A,Level 3,AEAS1,shrijiithmahesh,25.0,0.0,0.0,250.0,250.0
+150,Subiksha Hariprasath,Varsha,Level 2B,AEVS1,SubikshaHariprasath,24.0,0.0,0.0,240.0,240.0
+274,Aadhanya ,Jagadeesh,Level 2A,AEJG2,Aadhanya19,9.0,3.0,150.0,90.0,240.0
+328,T Theeran ,EbenzerAnto,Level 2A,BEEB2,Theeran04,24.0,0.0,0.0,240.0,240.0
+564,D.Bavisya,Johnclinton,Level 3,BEJC3,Bavisya,24.0,0.0,0.0,240.0,240.0
+293,D Dhuwarakesh,Yogram,Level 2B,AEYG6,dhuwa_2016,9.0,3.0,150.0,90.0,240.0
+499,Adhirath Pravith,Sathyagiri,Level 2A,AESG5,Adhirathchml,24.0,0.0,0.0,240.0,240.0
+576,Thanushree G.H,Sathyagiri,Level 4,AESG4,Tshree2025,23.0,0.0,0.0,230.0,230.0
+555,Avyukth Ved Ashwin,Jagadeesh,Level 2A,AMJG16,AvyukthAshwin,23.0,0.0,0.0,230.0,230.0
+71,Anirudh Mandalam,Narendran,Level 3,I60:ND:476,A2-Mandalam,23.0,0.0,0.0,230.0,230.0
+530,Elan Sabarikanth,Siddiq Akbar,Level 2C,AESA5,elans0804,23.0,0.0,0.0,230.0,230.0
+540,Yehshikth,Venugopal,Level 3,AEVG5,Yehshikth,23.0,0.0,0.0,230.0,230.0
+131,George Abey Kadavan,EbenzerAnto,Level 2B,I60:EB:720,GeorgeKad,23.0,0.0,0.0,230.0,230.0
+534, LASHVIN ,Puviraj,Level 2A,AEPu8,Lashvin_09,18.0,1.0,50.0,180.0,230.0
+57,Nikit Vineeth Nathan,Ashwin A,Level 3,AEAS1,nikitnathan,23.0,0.0,0.0,230.0,230.0
+454,Ilan S,Varsha,Level 2C,AEVS4,ilanshivabalan,18.0,1.0,50.0,180.0,230.0
+510,V S Hariharan,Jagadeesh,Level 2A,BEJG12,HariharanVS,3.0,4.0,200.0,30.0,230.0
+589,Sreenika,EbenzerAnto,Level 2A,BEEB2,Sreenikasai,23.0,0.0,0.0,230.0,230.0
+8,S. Thanyaa,Subbu,Level 3,A60:Su:52,Thanyaa2023,22.0,0.0,0.0,220.0,220.0
+352,Jayaraman S,Puviraj,Level 2A,AEPu7,jayaramans,22.0,0.0,0.0,220.0,220.0
+219,Kavinash Sundarajan,Mohana,Level 2B,AEMH3,kavinashsundarajan,22.0,0.0,0.0,220.0,220.0
+304,Ansh Shukla,Subbu,Level 5,AEsu3,chess_ansh_18,22.0,0.0,0.0,220.0,220.0
+520,Karthika devi,EbenzerAnto,Level 2A,AEEB3,Karthikadevi,22.0,0.0,0.0,220.0,220.0
+351,Deekshitha Suman Chandrra,Naveen Kumar K,Level 2A,AENK2,DeekshithaSuman,22.0,0.0,0.0,220.0,220.0
+67,Harshini Megha,Yogram,Level 2C,AEYG5,HarshiniMegha,12.0,2.0,100.0,120.0,220.0
+189,Ragavi S,Vishwa,Level 3,BEVI2,RagaviSivageethan,22.0,0.0,0.0,220.0,220.0
+442,Shanjana J,Mohana,Level 2A,AEMH2,SHANJU_JOTHI,22.0,0.0,0.0,220.0,220.0
+46,Praneeth Nareshkanth,Yogram,Level 3,AEYG3,Praneethnareshkanth,22.0,0.0,0.0,220.0,220.0
+384,Geethikhashri D,Siddiq Akbar,Level 2A,AESA6,Geethikhashrid,21.0,0.0,0.0,210.0,210.0
+86,Jaiharshaa Badrinarayanan,Sathyagiri,Level 2C,AESG3,JAIHARSHAA,21.0,0.0,0.0,210.0,210.0
+40,Theo,Yogram,Level 3,AEYG4,Ccctheo,21.0,0.0,0.0,210.0,210.0
+227,P Vaishnav Raja,Jagadeesh,Level 2C,BEJG11,leansweetgerm,11.0,2.0,100.0,110.0,210.0
+398,Devesh K,Puviraj,Level 2B,AEPu6,Devesh2016,16.0,1.0,50.0,160.0,210.0
+299,Samyuktha S,Jagadeesh,Level 2A,AEJG5,samyuktha_seetharam,6.0,3.0,150.0,60.0,210.0
+268,Sharvin,Jagadeesh,Level 2C,A60:JG:1189,Sharvinpb,5.0,3.0,150.0,50.0,200.0
+614,Sricharan S,Achaya,Level 2C,AEAC1,P9952963861,20.0,0.0,0.0,200.0,200.0
+125,L.Tharunsakthy ,Bala Prashanth,Level 2C,AEBP4,ccc_Tharunsakthy_661,20.0,0.0,0.0,200.0,200.0
+10,Prasanna M,Subbu,Level 5,BESu8,prasanna1735,20.0,0.0,0.0,200.0,200.0
+269,Lishwanth,Mohana,Level 2A,AEMH2,Lishwanth160118,20.0,0.0,0.0,200.0,200.0
+195,Iniyan R,Yogram,Level 3,AEYG2,INIYAN2020,0.0,4.0,200.0,0.0,200.0
+531, SARVESH SAIBALAN,Guru ,Level 2A,AEGU5,sarveshsaibalan2017,20.0,0.0,0.0,200.0,200.0
+411,Jiya Janani .T,Puviraj,Level 2A,AEPU8,JiyaJanani,19.0,0.0,0.0,190.0,190.0
+217,Adya sathish,Puviraj,Level 2A,BEPu4,Adya02,19.0,0.0,0.0,190.0,190.0
+533,Kavin Bharathi U K,Guru ,Level 2A,AEGU5,Kavinbharathi2015,19.0,0.0,0.0,190.0,190.0
+310,Kavi Prakash.K,Jagadeesh,Level 2A,BEJG9,KaviPrakash_Pandian,19.0,0.0,0.0,190.0,190.0
+145,Rishvaa,Subbu,Level 2C,AESu11,gullugullulala,19.0,0.0,0.0,190.0,190.0
+214,Sruthi S,Sathyagiri,Level 3,AESG2,SruthiS,19.0,0.0,0.0,190.0,190.0
+565,Sai Harshan B,Varsha,Level 2C,AEVS4,BRsaiharshan15,4.0,3.0,150.0,40.0,190.0
+597,Sunidhi Gopal Kulkarni,Bille Graham,Level 2C,A60-BG-1878,DMCA_Sunidhi,19.0,0.0,0.0,190.0,190.0
+542, Nakshathra Hemnath,Anandha Kumar,Level 2A,AEAD5,Nakshathra1804,19.0,0.0,0.0,190.0,190.0
+289,Nirmay Anup Wankhede,Gowtham,Level 3,AEGT1,nirmay2014,19.0,0.0,0.0,190.0,190.0
+291,Dhakshita A,Jagadeesh,Level 2A,AEJG5,adhakshita,19.0,0.0,0.0,190.0,190.0
+42,Yohaambigai,Venugopal,Level 3,AEVG1,chessyohaa03,19.0,0.0,0.0,190.0,190.0
+425, Ayisha M,Sathyagiri,Level 2C,AESG3,Ayisham2011,18.0,0.0,0.0,180.0,180.0
+31,Aromal,Pankaj,Level 3,AEPS1,AromalRs,18.0,0.0,0.0,180.0,180.0
+587,Dhruva Narayan,Ashwin A,Level 2B,AEAS4,DhruvaNarayan,18.0,0.0,0.0,180.0,180.0
+514,Aarthmeeka Karthick,Guru ,Level 2A,AEGU5,Aarthuqueen2017,18.0,0.0,0.0,180.0,180.0
+486,Aditya Narayanan,Subbu,Level 4,I60:SU:1634,Amazingbros,18.0,0.0,0.0,180.0,180.0
+346,kavinila,Sathyagiri,Level 3,BESG1,KavinilaSA,18.0,0.0,0.0,180.0,180.0
+526,Keshav Ishwar R,Sathyagiri,Level 2A,AESG5,KeshavIshwar00075432,17.0,0.0,0.0,170.0,170.0
+93,A.LOGESHWARAN,Subbu,Level 5,BESu8,LOGESH060395,17.0,0.0,0.0,170.0,170.0
+466,Rudhanya ,Puviraj,Level 2A,AEPu5,rudhanya12,17.0,0.0,0.0,170.0,170.0
+606,SHREYAS ,Dhithrabrata Kundu,Level 2C,AEDK1,Shreyas120716,17.0,0.0,0.0,170.0,170.0
+602, Thigazhini ,Vijayasarathy,Level 5,AEVJS1,barbiegirl_15,7.0,2.0,100.0,70.0,170.0
+16,Lithisha,Venugopal,Level 3,AEVG3,Lithisha_A,17.0,0.0,0.0,170.0,170.0
+625,Vijayaraghavan M,Subbu,Level 5,BESu8,vijayschess,17.0,0.0,0.0,170.0,170.0
+196,Tanmay Kumar,Vishwa,Level 3,BEVI2,Tanmaypk,17.0,0.0,0.0,170.0,170.0
+303, N Puvin,Jagadeesh,Level 2A,AEJG3,Puvin4f,17.0,0.0,0.0,170.0,170.0
+515,Prasanna,Venugopal,Level 3,AEVG5,RookwarriorPrasanna,17.0,0.0,0.0,170.0,170.0
+364,Tharun,Subbu,Level 2C,BESu7,Tharunsai2017,16.0,0.0,0.0,160.0,160.0
+210,Ivan Joshua R,Varsha,Level 2C,AEVS4,IvanJoshua_911,16.0,0.0,0.0,160.0,160.0
+385,Shanvikha D,Siddiq Akbar,Level 2A,AESA6,ShanvikhaD,16.0,0.0,0.0,160.0,160.0
+157,B S Akshaya ,Dhithrabrata Kundu,Level 2C,AEDK1,bsakshaya,16.0,0.0,0.0,160.0,160.0
+20,Pallav,EbenzerAnto,Level 3,BEEB1,CCCPallav,16.0,0.0,0.0,160.0,160.0
+391,Mohammad Muizz,Varsha,Level 2B,A60:VS:1454,cool_megladon,11.0,1.0,50.0,110.0,160.0
+516,Vyshnavram E M,Swarnamala,Level 2B,BESWM7,Vyshnavram,15.0,0.0,0.0,150.0,150.0
+557,Nethra Praveen,Varsha,Level 2A,I60:VS:1785,Nethra_Praveen,0.0,3.0,150.0,0.0,150.0
+26,Yatha,Gowtham,Level 3,AEGT1,Yathachess1,15.0,0.0,0.0,150.0,150.0
+388,Remyson Pauls ,Anandha Kumar,Level 2C,I30:AD:1444,Remyson17pauls,15.0,0.0,0.0,150.0,150.0
+264,Sanjana,Bala Prashanth,Level 4,AEBP2,Sanjana_manikandan,10.0,1.0,50.0,100.0,150.0
+148,Kajish Raj A,Puviraj,Level 3,BEPu2,kajishraj,15.0,0.0,0.0,150.0,150.0
+358,Tarun Kuduvaa Suresh,Dhithrabrata Kundu,Level 2B,AEDK4,tarunkuduvaa,15.0,0.0,0.0,150.0,150.0
+58,R.Vishank Ram,Ashwin A,Level 3,AEAS1,Vishank_Ram_CCC,15.0,0.0,0.0,150.0,150.0
+567,Krishiv charan Jeyaraman,Jagadeesh,Level 2A,AEJG4,Krishiv_1810,14.0,0.0,0.0,140.0,140.0
+538, Sathvik Nanda,Jagadeesh,Level 2C,BEJG11,Sathvik17,14.0,0.0,0.0,140.0,140.0
+521,Dara Gowtham griffin,Guru ,Level 2A,AEGU5,kayathridara786,14.0,0.0,0.0,140.0,140.0
+153,Niranchana Madhan,Subbu,Level 2B,AESu10,Niranchana,14.0,0.0,0.0,140.0,140.0
+161,Sarfaraz Ahmed V,Dhithrabrata Kundu,Level 2C,AEDK2,SarfarazAhmed,9.0,1.0,50.0,90.0,140.0
+165,Hardik M,Dhithrabrata Kundu,Level 2C,AEDK1,Hardikmr7,14.0,0.0,0.0,140.0,140.0
+122,P.Rakshitha,Siddiq Akbar,Level 2A,AESA6,p18rakshitha,14.0,0.0,0.0,140.0,140.0
+62,Mithun Krishna,Johnclinton,Level 2C,BEJC2,Mithunkrishnan,14.0,0.0,0.0,140.0,140.0
+259,Sarvesh M J,Varsha,Level 2B,AEVS2,sarvesh_mj,14.0,0.0,0.0,140.0,140.0
+257,Visakan,Dhithrabrata Kundu,Level 2C,AEDK1,ccc_visagan_391,9.0,1.0,50.0,90.0,140.0
+55,Arshitha.V,Subbu,Level 2C,AESu11,Arshitha1129,14.0,0.0,0.0,140.0,140.0
+202,Araanya Singh,Varsha,Level 2B,AEVS3,Araanya,13.0,0.0,0.0,130.0,130.0
+513,Aryan kamjula ,Nick,Level 3,AMNN3,Aryankkr,13.0,0.0,0.0,130.0,130.0
+578,M daanvi,Anandha Kumar,Level 2B,BEAD4,MDaanviprabu,13.0,0.0,0.0,130.0,130.0
+135,Sourav Sreekanth,Hari Krishnan,Level 2C,AEHK1,SouravSreekanth,13.0,0.0,0.0,130.0,130.0
+319,Aaqhil Aathreya A,Jagadeesh,Level 2A,BEJG9,Aaqhil_Aathreya,3.0,2.0,100.0,30.0,130.0
+218,Anya sathish,Puviraj,Level 2A,BEPu4,Anya0202,13.0,0.0,0.0,130.0,130.0
+537, Manish Nanda,Subbu,Level 2C,BESU7,manish004,13.0,0.0,0.0,130.0,130.0
+74,S.S.Harish,Sathyagiri,Level 3,BESG1,Harishdagoat,13.0,0.0,0.0,130.0,130.0
+191, Garud Krishnan,Varsha,Level 2C,AEVS4,GK2018,8.0,1.0,50.0,80.0,130.0
+451,Krishna Rudhvi S,Varsha,Level 2B,AEVS5,krishnarudhvi,13.0,0.0,0.0,130.0,130.0
+181,Advaith Vinoth,Yogram,Level 3,AEYG4,Advaith20122204,13.0,0.0,0.0,130.0,130.0
+167,Lekhaa.L ,Yogram,Level 3,AEYG2,Lekhaa,8.0,1.0,50.0,80.0,130.0
+169,Harshavardhan,Subbu,Level 2C,BEsu7,Harshavardhan21,13.0,0.0,0.0,130.0,130.0
+612,Aniruddh B K ,Dhithrabrata Kundu,Level 2C,AEDK2,SHAWDOW_BK12,13.0,0.0,0.0,130.0,130.0
+283,Salla Soumya,Mohana,Level 2B,AEMH1,Soumyasalla,7.0,1.0,50.0,70.0,120.0
+378,Harish Narayan,Puviraj,Level 2A,AEPu7,harish12345678,7.0,1.0,50.0,70.0,120.0
+379,Riya B,Sathyagiri,Level 4,AESG4,riya092015,12.0,0.0,0.0,120.0,120.0
+348,SHIVASUBRAMANIYAN M B,Puviraj,Level 3,BEPU2,Shivasubramaniyanmb,12.0,0.0,0.0,120.0,120.0
+407,A lalitha,Prasanna Kumar,Level 2C,AEPK1,lalitha0414,12.0,0.0,0.0,120.0,120.0
+493, Dev Prakash ,Arun Kumar,Level 3,AEAK2,Dev_Prakash,12.0,0.0,0.0,120.0,120.0
+604,Dev Bharaniram,Varsha,Level 2B,AEVS2,Dev_Bharaniram,12.0,0.0,0.0,120.0,120.0
+481,Riya Vinay,Sathyagiri,Level 2A,AESG5,Riya310,12.0,0.0,0.0,120.0,120.0
+436,Rishabh ,Sathyagiri,Level 4,AESG4,Rishabh_Sadurangam,12.0,0.0,0.0,120.0,120.0
+609,Idhant,Bille Graham,Level 2B,A60:BG:1903,idhantverma,12.0,0.0,0.0,120.0,120.0
+130,Krish Karthik,Achaya,Level 2C,AEAC1,Krish_Karthik,12.0,0.0,0.0,120.0,120.0
+14,Ridhika,Pankaj,Level 3,AEPS1,ridhika_s,12.0,0.0,0.0,120.0,120.0
+419,Fabiola Calfuray ,Jagadeesh,Level 2A,BEJG12,ccc_Fabiola_1503,11.0,0.0,0.0,110.0,110.0
+102, S.Pranav,Yogram,Level 3,AEYG2,pranav-ssmanian81,11.0,0.0,0.0,110.0,110.0
+4,Avyan,Venugopal,Level 3,AEVG1,Avyan160917,11.0,0.0,0.0,110.0,110.0
+420,I Sharveshwaran,Jagadeesh,Level 2A,BEJG9,IGsharvesh2,11.0,0.0,0.0,110.0,110.0
+382,Lakshith V,Anandha Kumar,Level 2A,AEAD5,Lakshith_0213,11.0,0.0,0.0,110.0,110.0
+417,ROSHAN S,Puviraj,Level 2B,AEPu6,RoshanSP,11.0,0.0,0.0,110.0,110.0
+94,Gopalakrishnan,Subbu,Level 5,BESu8,VGKRISHNAN2023,11.0,0.0,0.0,110.0,110.0
+402,Niranjan sai,Puviraj,Level 2B,AEPu6,niranjansaisasithar,11.0,0.0,0.0,110.0,110.0
+127,Brijdeep Singh,Bala Prashanth,Level 2C,AEBP5,Brijdeep_0622,11.0,0.0,0.0,110.0,110.0
+523,Lavanya,EbenzerAnto,Level 2A,AEEB3,Lavanya9,1.0,2.0,100.0,10.0,110.0
+238,Harini M K,Arka Dutta,Level 2B,AEAR5,Harini_2012,11.0,0.0,0.0,110.0,110.0
+246,Anaya Singh,Siddharth Kambli,Level 2B,AESK2,Anaya_1144,0.0,2.0,100.0,0.0,100.0
+502,Madhav,Jagadeesh,Level 2A,BEJG12,Sigmaboysly,0.0,2.0,100.0,0.0,100.0
+497,Adwaith. S,Naveen Kumar K,Level 3,AENK1,Unnikutts,10.0,0.0,0.0,100.0,100.0
+234,Vrishank,Sathyagiri,Level 3,AESG2,Vrishank0409,10.0,0.0,0.0,100.0,100.0
+123,S.Pranav,Sathyagiri,Level 3,BESG1,Pranav_Sivabala,10.0,0.0,0.0,100.0,100.0
+38,Manish,Subbu,Level 4,I60:SU:315,Manishjana,10.0,0.0,0.0,100.0,100.0
+70,Pratiksha BG,Naveen Kumar K,Level 3,I60:NK:474,Prateekshabg,10.0,0.0,0.0,100.0,100.0
+462,Skanda Vikram,Venugopal,Level 3,AEVG5,SkandaV,0.0,2.0,100.0,0.0,100.0
+327,Vihana Ajaykarthi,Puviraj,Level 2A,AEPu5,vihanaajay,10.0,0.0,0.0,100.0,100.0
+2,Saathvika,Pankaj,Level 3,AEPS1,sathvi_charmgirl,10.0,0.0,0.0,100.0,100.0
+550,Tejasshiva S,Guru ,Level 2A,AEGU5,tejasshiva,9.0,0.0,0.0,90.0,90.0
+430,Sai Prathiksha ,EbenzerAnto,Level 2A,AEEB3,Prathiksha05,9.0,0.0,0.0,90.0,90.0
+23,Priam Anto,Yogram,Level 3,AEYG2,PriamAnto,4.0,1.0,50.0,40.0,90.0
+490,D.Darius Kristen,Jagadeesh,Level 2C,BEJG11,DariusKristen,9.0,0.0,0.0,90.0,90.0
+105,Siddharth,Nick,Level 3,AMNN3,Siddharth0628,9.0,0.0,0.0,90.0,90.0
+356,Aganya Hemnath ,Anandha Kumar,Level 2A,AEAD5,Aganya710,9.0,0.0,0.0,90.0,90.0
+221,Aadhish A,Ashwin A,Level 2C,AEAS2,DRAGONFIST651,9.0,0.0,0.0,90.0,90.0
+394,Shreyas S,Jagadeesh,Level 2A,AEJG5,Shreyas112356,9.0,0.0,0.0,90.0,90.0
+190,Audvik N,Varsha,Level 2B,AEVS5,AudvikN,9.0,0.0,0.0,90.0,90.0
+457,Eshanaa Logesh,Varsha,Level 2B,AEVS1,Eshanaa2017,9.0,0.0,0.0,90.0,90.0
+401,Dhiyaa.A,Puviraj,Level 2A,AEPu8,dhiyaa_17,9.0,0.0,0.0,90.0,90.0
+117,T. Prakan,Bala Prashanth,Level 2C,AEBP5,prakantamilselvan,9.0,0.0,0.0,90.0,90.0
+81,H.R Yohith Abhinav,Sathyagiri,Level 2C,AESG3,YOHITHABHINAV,8.0,0.0,0.0,80.0,80.0
+594,TP. Adhvik ,Swarnamala,Level 1,AESWM8,Adhvik2527,8.0,0.0,0.0,80.0,80.0
+601,kashika M ,Vijayasarathy,Level 5,AEVJS1,Pinklotus16,8.0,0.0,0.0,80.0,80.0
+529,S Raghav Varun,Sourath Biswas,Level 5,AESRB1,srvarun13,8.0,0.0,0.0,80.0,80.0
+314,Dheera Ravishankar ,Puviraj,Level 2A,AEPu5,DheeraDhruv,8.0,0.0,0.0,80.0,80.0
+297,Tania A,Jagadeesh,Level 2A,AEJG6,Tania1105,8.0,0.0,0.0,80.0,80.0
+413,Prithiv Jayapraghaash,Varsha,Level 1,A60:VS:1492,Prithiv27,8.0,0.0,0.0,80.0,80.0
+507,Aadit Venkatesan,Nick,Level 3,AMNN3,aadit_venkatesan,8.0,0.0,0.0,80.0,80.0
+336,R.V.Aadhinathan,Jagadeesh,Level 2A,BEJG9,Aadhinathan,8.0,0.0,0.0,80.0,80.0
+100,Ria Evangeline,Johnclinton,Level 3,BEJC3,RiaAntony,8.0,0.0,0.0,80.0,80.0
+387,Aadvik P,Mohana,Level 2A,AEMH2,Aadvik_P,8.0,0.0,0.0,80.0,80.0
+585,Kaniyamudhu,Siddiq Akbar,Level 2A,AESA6,Amudhu2016,7.0,0.0,0.0,70.0,70.0
+311,Aarav Rauniyar ,Jagadeesh,Level 2A,AEJG4,AaravRauniyar,7.0,0.0,0.0,70.0,70.0
+399,Harshid Kiran G,Puviraj,Level 2A,AEPu8,harshidkiran,7.0,0.0,0.0,70.0,70.0
+313,Prithvik Rowin .E,Jagadeesh,Level 2A,BEJG9,Prithvik_Rowin,7.0,0.0,0.0,70.0,70.0
+392,Atchaya Kalidas,Jagadeesh,Level 2A,AMJG10,AtchayaKalidas,7.0,0.0,0.0,70.0,70.0
+88,G.Aadithya Yatintra,Achaya,Level 2C,AEAC1,yatintra0610,7.0,0.0,0.0,70.0,70.0
+629,Adhip K ,Jagadeesh,Level 2A,AEJG3,karamcse,7.0,0.0,0.0,70.0,70.0
+368, Layana Puviyarasun,Jagadeesh,Level 2A,AMJG10,Layana_Puvi,6.0,0.0,0.0,60.0,60.0
+618,Ayansh heda,Subbu,Level 2C,A60:SU:1928,Ayanshheda,6.0,0.0,0.0,60.0,60.0
+232,Vihaan Bharathwaj,Siddiq Akbar,Level 2C,AESA5,vihaan_163,6.0,0.0,0.0,60.0,60.0
+603, Sameeranbalaji,Vishwa,Level 3,BEVI1,Savitar253,6.0,0.0,0.0,60.0,60.0
+137,Sashanth Sai Kumararaja,Achaya,Level 2B,AEAC3,Sashanthsai,6.0,0.0,0.0,60.0,60.0
+128,Sastharachan.H,Ashwin A,Level 2C,AEAS2,SASTHARACHAN,6.0,0.0,0.0,60.0,60.0
+97,Yushaan Mukherjee,Venugopal,Level 3,AEVG3,Yushaan29,1.0,1.0,50.0,10.0,60.0
+284,Thanvika.S,Varsha,Level 2A,MEVS7,queen_thanvika,6.0,0.0,0.0,60.0,60.0
+164,Mayon Siddharth A,Siddiq Akbar,Level 2C,AESA5,Mayon-A,6.0,0.0,0.0,60.0,60.0
+623,BARATHKUMAR C,Venugopal,Level 3,AEVG1,barath9692,6.0,0.0,0.0,60.0,60.0
+390,Hayyan Hassan,Jagadeesh,Level 2A,BEJG9,Hayyanhasan,6.0,0.0,0.0,60.0,60.0
+162,Uthra A,Subbu,Level 2C,AESu9,Uthra-A,6.0,0.0,0.0,60.0,60.0
+342,Alankrita Sarin,Venugopal,Level 3,AEVG1,alankritasarin,5.0,0.0,0.0,50.0,50.0
+482,Vedanth Arun,Mohana,Level 2A,AEMH2,Vedanth_AS,5.0,0.0,0.0,50.0,50.0
+464,Sowmiya A,Puviraj,Level 2A,AEPu8,sowmiya23,5.0,0.0,0.0,50.0,50.0
+89,Shanvi Silambarasan,Achaya,Level 2C,AEAC1,shanvi12chess,5.0,0.0,0.0,50.0,50.0
+37,Suriya Dev,Yogram,Level 2B,I60:YG:314,suryavenkat,5.0,0.0,0.0,50.0,50.0
+323,Gautham Manikandan,Varsha,Level 2B,AMVS6,Goutham2017,5.0,0.0,0.0,50.0,50.0
+194,N.Sharveshwaran,Puviraj,Level 3,BEPu2,Sharvesh_N,5.0,0.0,0.0,50.0,50.0
+54,Shivanya,Anandha Kumar,Level 2C,I30:AD:407,Shivanya02,5.0,0.0,0.0,50.0,50.0
+253,R A Nivesh,Achaya,Level 2C,AEAC1,Nivesh03,5.0,0.0,0.0,50.0,50.0
+307,Magizh.G,Puviraj,Level 2A,BEPu4,magizhgowtham,0.0,1.0,50.0,0.0,50.0
+163, Yazhini A,Subbu,Level 2C,AESu9,Yazhini-A,5.0,0.0,0.0,50.0,50.0
+255,Pragadish Prabhu,Jagadeesh,Level 2B,AMJG14,Pragadish_01,0.0,1.0,50.0,0.0,50.0
+426,Sendhoorchselvan ,Jagadeesh,Level 2C,BEJG11,Sendhoorchselvan,5.0,0.0,0.0,50.0,50.0
+29,Chethvik,Johnclinton,Level 3,BEJC3,Chaitvikdadkishore,5.0,0.0,0.0,50.0,50.0
+265,Roshan Mehta,Subbu,Level 2C,AESu9,M17Roshan,5.0,0.0,0.0,50.0,50.0
+263,Sashana,Bala Prashanth,Level 2C,AEBP1,Sashana_manikandan,5.0,0.0,0.0,50.0,50.0
+256,Abram David Deljo,Jagadeesh,Level 2A,AEJG2,abram_david,0.0,1.0,50.0,0.0,50.0
+556,Sandhyashri Ganesh,Jagadeesh,Level 2A,AMJG16,sandhyashriganesh,4.0,0.0,0.0,40.0,40.0
+626,Mouna J,Vijayasarathy,Level 3,I60:VJS:1946,mouna31,4.0,0.0,0.0,40.0,40.0
+50,Sai Varun,Venugopal,Level 3,AEVG3,SAIVARUN_D,4.0,0.0,0.0,40.0,40.0
+580,Karthik Viswamohanan .S,Jagadeesh,Level 2A,AEJG4,nelj9,4.0,0.0,0.0,40.0,40.0
+579,V.Rajasekar,EbenzerAnto,Level 2A,AEEB3,Rajasekarsamson,4.0,0.0,0.0,40.0,40.0
+547,Amay Gheek,Sathyagiri,Level 2A,I60:SG:1768,AmayGheek,4.0,0.0,0.0,40.0,40.0
+500,JAYANTH P,Mohana,Level 2B,AEMH1,pjayanth,4.0,0.0,0.0,40.0,40.0
+340,P.N.Nagulesh Sai,Puviraj,Level 2A,AEPU5,ccc_Nagulesh_1346,4.0,0.0,0.0,40.0,40.0
+92,Sabarish,Subbu,Level 5,AESu3,sabarish12,4.0,0.0,0.0,40.0,40.0
+9,Yashwanth S,Pankaj,Level 3,AEPS3,CCCyashwanth,4.0,0.0,0.0,40.0,40.0
+569,Lohitakshi,Sathyagiri,Level 4,I60:SG:1817,Lohita1503,4.0,0.0,0.0,40.0,40.0
+357,Lohitakshi,Venugopal,Level 4,AEVG4,Lohita1503,4.0,0.0,0.0,40.0,40.0
+87,Tharun Shiva,Achaya,Level 2C,AEAC1,Tharun_16,4.0,0.0,0.0,40.0,40.0
+243,Lekshana Sree,Johnclinton,Level 2C,BEJC2,lekshanashree,4.0,0.0,0.0,40.0,40.0
+396,Nikaetan G,Puviraj,Level 2A,AEPu7,NikateanGANN,3.0,0.0,0.0,30.0,30.0
+147,S.Taathvik,Varsha,Level 2B,AEVS2,Taathvik,3.0,0.0,0.0,30.0,30.0
+424,Lekhashree,Jagadeesh,Level 2A,AMJG10,ps_lekhashree,3.0,0.0,0.0,30.0,30.0
+374,Adharva Premkumar,Puviraj,Level 2A,AEPu7,AdharvaP101018,3.0,0.0,0.0,30.0,30.0
+405,Divina,Siddiq Akbar,Level 2A,AESA6,Ccc_Divina_1476,3.0,0.0,0.0,30.0,30.0
+435,Kansika,Jagadeesh,Level 2A,BEJG12,ccc_Kansika_1533,3.0,0.0,0.0,30.0,30.0
+449,Dakshinesh ,Dhithrabrata Kundu,Level 2C,AEDK2,Dakshin_15,3.0,0.0,0.0,30.0,30.0
+322,Azmiya Nuha,Dhithrabrata Kundu,Level 2B,AEDK4,ccc_Azmiya_1323,3.0,0.0,0.0,30.0,30.0
+574,Avyakth,Bille Graham,Level 2A,BMBG1,AvyVathsan,3.0,0.0,0.0,30.0,30.0
+630,Raja Ganapathy, ,Level 2C,1:1,rganapathy6,3.0,0.0,0.0,30.0,30.0
+522,Raanav A,Manickakesavan,Level 2A,I30:MK:1710,Raanav13,3.0,0.0,0.0,30.0,30.0
+525, Aadvik Srinivasan ,Johnclinton,Level 2C,BEJC2,advik-s,3.0,0.0,0.0,30.0,30.0
+308,Rais Tajmul,Jagadeesh,Level 2A,AMJG10,Bluechamp_1,3.0,0.0,0.0,30.0,30.0
+581, Ivan DSouza,Bala Prashanth,Level 2C,AEBP4,reigning_raphel123,3.0,0.0,0.0,30.0,30.0
+577,Sairam V,Jagadeesh,Level 2A,BEJG12,VNSairam,3.0,0.0,0.0,30.0,30.0
+302,Lishaan ,Varsha,Level 2A,AEVS10,lishu282020,3.0,0.0,0.0,30.0,30.0
+575,Achyuth Vijay,Bille Graham,Level 2A,BMBG1,Achyuthvijay,3.0,0.0,0.0,30.0,30.0
+428,Saatvik,Narendran,Level 2B,I60:ND:1524,Saatvik2018,3.0,0.0,0.0,30.0,30.0
+7,Shravan Santosh,Subbu,Level 4,A60:Su:46,santhosh_kps_1981,3.0,0.0,0.0,30.0,30.0
+333, Pradosh Arya J,Varsha,Level 2B,AEVS8,Pradosharya25,3.0,0.0,0.0,30.0,30.0
+591,DESHWA. J.N,Vijayasarathy,Level 2C,I60:VJS:1864,deshwajn,2.0,0.0,0.0,20.0,20.0
+41,VARUN S,Yogram,Level 3,AEYG2,Varunrari2016,2.0,0.0,0.0,20.0,20.0
+335,Anika Karthik,Naveen Kumar K,Level 2A,AENK2,Anikachess2018,2.0,0.0,0.0,20.0,20.0
+593,Riyana JA ,Puviraj,Level 2A,BEPu4,riyana_ja-7819,2.0,0.0,0.0,20.0,20.0
+458,Suhail Rameez,Jagadeesh,Level 2A,BEJG12,Suhail_Rameez,2.0,0.0,0.0,20.0,20.0
+6,Harathika,Subbu,Level 3,I60:Su:44,harathika,2.0,0.0,0.0,20.0,20.0
+558,Kriyan Metla,Varsha,Level 3,A60:VS:1787,kriyanmetla,2.0,0.0,0.0,20.0,20.0
+554,Varun,Jagadeesh,Level 2A,AMJG16,varunr2025,1.0,0.0,0.0,10.0,10.0
+115,Venkatesh,Subbu,Level 5,I60-Su-643,venkatesh64,1.0,0.0,0.0,10.0,10.0
+553,Vasanth,Jagadeesh,Level 2A,AMJG16,vasanthr2025,1.0,0.0,0.0,10.0,10.0
+141, Vinay Krishna M,Varsha,Level 2B,AEVS1,Vinay_Krishna_M,1.0,0.0,0.0,10.0,10.0
+241,Pradanya Thayalan,Ashwin A,Level 2C,AEAS2,Pradanya10,1.0,0.0,0.0,10.0,10.0
+39,Shanvanth P,Yogram,Level 3,AEYG4,SHANVANTH,1.0,0.0,0.0,10.0,10.0
+48,Saketh,Pankaj,Level 3,AEPS1,kvsaketh,1.0,0.0,0.0,10.0,10.0
+362,Samana Showkath,Jagadeesh,Level 2A,I30:JG:1392,Samana2012,1.0,0.0,0.0,10.0,10.0
+460,Samyukta G,Hari Krishnan,Level 2C,AEHK1,samyukta_g,1.0,0.0,0.0,10.0,10.0
+173,Keerthi venkatesh,Kowsalya ,Level 2B,AEKS2,Keerthi0415,1.0,0.0,0.0,10.0,10.0
+143,Parth Gupta ,Achaya,Level 2C,AEAC1,Parth2032,1.0,0.0,0.0,10.0,10.0
+204,Aashritha Bheemineni,Vishwa,Level 3,BEVI2,aashrithabh,1.0,0.0,0.0,10.0,10.0
+108, Vidhyarth Sathishkumar,Nick,Level 3,AMNN3,CCC-Vidhyarth,1.0,0.0,0.0,10.0,10.0
+252,Emma Therese Deljo ,Bala Prashanth,Level 2C,AEBP4,emma_therese,1.0,0.0,0.0,10.0,10.0
+3,Nishadiyaan,Subbu,Level 5,BESu8,Nishad0906,,,,,
+5,Ishan,Subbu,Level 2C,AEsu9,Ishaan-2015,,,,,
+27,Darshit,Johnclinton,Level 3,BEJC3,Trainer_alive,,,,,
+28,Danvir,Johnclinton,Level 3,BEJC3,Danvir2016,,,,,
+30,Iyan,Johnclinton,Level 2C,BEJC2,Iyan_CB,,,,,
+34,Vikrant Kumar,Venugopal,Level 3,AEVG1,Vikranth_Vinodkumar,,,,,
+49,Gokul,Johnclinton,Level 4,BEJC4,gokulmechalion,,,,,
+59,Singara Kannan,Ashwin A,Level 2C,I30:AS:431,Singara Kannan,,,,,
+60,PI.Ridhushini ,Anandha Kumar,Level 2B,I30:AD:432,Ridhushini,,,,,
+65,Tarun. D,Anandha Kumar,Level 2C,I30:AD:449,Tarunchamp,,,,,
+66,Kundan Mupalla,Bala Prashanth,Level 4,AEBP2,Kundan_chessy7,,,,,
+69,Mahaniya,Yogram,Level 2C,AEYG5,Mahaniyakumaresh,,,,,
+91,C.Ragland Rajapaul,Achaya,Level 2C,AEAC2,RaglandC,,,,,
+98,Aaron Jacob ,Achaya,Level 2C,AEAC2,AaronJacob2016,,,,,
+101,DS Prathyush ,Yogram,Level 3,AEYG2,DsPrathyush21,,,,,
+103, S.R.Harshanth Sanjeev,Achaya,Level 2C,AEAC2,Harshanth_2013,,,,,
+106,Zoe Singh,Kishore,Level 2B,A60-KK-612,Zoe_Singh2017,,,,,
+109,Tamil Venthan. L,Johnclinton,Level 2C,BEJC2,Tamilventhan. L,,,,,
+119,Harish Veeramani,Nick,Level 3,AMNN3,cccHarish,,,,,
+133,H.Jovith Khanna,Achaya,Level 2B,AEAC3,Harijovie,,,,,
+138,Anish Aswin kumar,Achaya,Level 2B,AEAC3,ccc_AnishAshwinKumar,,,,,
+140,Darshil Thakkar,Bala Prashanth,Level 2C,AEBP5,Darshilkt,,,,,
+146,AAHIL KHAN. A,Johnclinton,Level 3,BEJC3,Aahilkhan,,,,,
+154,Muhammad Ruzain,Subbu,Level 2C,AESu11,Ruzain29,,,,,
+159,Advait D,Achaya,Level 2B,AEAC3,Advait123D,,,,,
+160, B.Kalpa Sri,Yogram,Level 2C,AEYG5,Kalpa2808,,,,,
+166,Jaisarvesh,Pankaj,Level 3,AEPS3,Jaisarvesh1,,,,,
+171,Davina Gladys I,Subbu,Level 2C,AESu9,idavina,,,,,
+172,Mokshith K,Kowsalya ,Level 2B,AEKS1,Mokshith-ik,,,,,
+175,Mohammed Ayaan T,Johnclinton,Level 2C,BEJC2,MohammedAyaan_Thalib,,,,,
+177,S.M Hrithvik,Ramanan,Level 2B,AERMN1,ccc_Hrithvik_923,,,,,
+179,Zach Singh,Kishore,Level 2C,A60-KK-613,Zach_Singh,,,,,
+193,M Sathvik Aarooran,EbenzerAnto,Level 2A,I30-EB-1000,SathvikAarooran,,,,,
+203,Varunikkha,Varsha,Level 2B,AEVS3,ccc_Varunikkha_1026,,,,,
+206,C Mailesh,Johnclinton,Level 3,BEJC3,MaileshC,,,,,
+213,Sarvesh MD,Varsha,Level 2B,AMVS6,SarveshMD,,,,,
+216,C Pranav Sai,Puviraj,Level 2A,BEPu4,Pranavsaiblue,,,,,
+226,Harshan Neelagiri Hariharan,Varsha,Level 2B,AMVS6,GrowlinNxghtmare,,,,,
+228,Pranithi D,Ashwin A,Level 2B,I30-AS-1092,PranithiD,,,,,
+233,Vihaan Arjun,Varsha,Level 2B,AEVS8,VihaanArjun,,,,,
+236,Aashritha,Yogram,Level 2B,AEYG6,AashVish,,,,,
+245,Pranav,Jagadeesh,Level 2A,AEJG3,Pranav-RB,,,,,
+248,Prithvin V S,Siddharth Kambli,Level 2B,AESK2,PRITHVIN555,,,,,
+254,Rashikaa Prabhu,Varsha,Level 2B,AMVS6,ccc_Rashikaa_1611,,,,,
+272,Shakthivel Kamalanathan,Ashwin A,Level 2B,AEAS4,ccc_Shakthivel_1202,,,,,
+279,S. Vinith,Mohana,Level 2B,AEMH1,vinith_sivanantham,,,,,
+288,Anand M,Subbu,Level 5,BESU8,anandkmr27,,,,,
+295,Vedant Rakesh ,Jagadeesh,Level 2A,AEJG5,vedu1232,,,,,
+296,Advait Rakesh ,Ramanan,Level 2B,AERMN1,AdvaitRulez,,,,,
+301,Eezzah Ebrahim Riyas ,Jagadeesh,Level 2A,AEJG5,EezzahEbrahim,,,,,
+306,Mahillan Raj,Jagadeesh,Level 2A,AEJG5,MRMahillan,,,,,
+309,Mohit Sai Kumar v,Jagadeesh,Level 2A,AEJG2,Mohitsaikumar,,,,,
+318,Mohith ssai P,Jagadeesh,Level 2A,AEJG6,ccc_Mohith_1312,,,,,
+337,Rithish S,Johnclinton,Level 2C,BEJC2,Rithish1410chess,,,,,
+349,Arudhra ,Swarnamala,Level 2B,BESWM7,Tiger_Tyson_1,,,,,
+350,Chris Karen,Puviraj,Level 2A,AEPu7,chriskaren,,,,,
+353,Mahathru Privin,Bala Prashanth,Level 2A,I60-BP-1376,Mahath_Chess17,,,,,
+367,Nithesh Prahalaad,Yogram,Level 2B,AEYG6,nithesh_ccc,,,,,
+369,Prakathi M,Varsha,Level 2B,AEVS8,Prakathi_2011,,,,,
+372,V. AARAV SEYON,Achaya,Level 2C,AEAC2,Aaravsyon123,,,,,
+376,Aditya Krishna,Dhithrabrata Kundu,Level 4,I60:DK:1417,thelawyer9380,,,,,
+377,Govind G Nair,EbenzerAnto,Level 2A,I30:EB:1417,gov_56,,,,,
+380,Samarth Hebbale,Narendran,Level 2A,A60:ND:1427,SamarthHebbale,,,,,
+381, Ayden Juan Emmanuel P,Naveen Kumar K,Level 2A,AENK2,fatimajency,,,,,
+386,Donghyun Kwon,Mohana,Level 2A,AEMH4,donghyunMAX,,,,,
+393,Dia Parthasarathy,Sathyagiri,Level 4,I60:SG:1456,hazelhull11,,,,,
+404,Tara Ram,Dhithrabrata Kundu,Level 2B,AEDK4,TARARAM1,,,,,
+409,Kavinithaa,Ramanan,Level 2B,AERMN1,Kavinithaa2018,,,,,
+427,Mayukh mithran ,Varsha,Level 2A,AEVS10,mayukh-2017,,,,,
+431,Ridhi Vadarevu ,Ram Natraj,Level 2A,A60:RN:1527,rvadarevu,,,,,
+433,JUMAIL FARIZ M ,Ram Kumar,Level 3,I30:RK:1531,JUMRIZ,,,,,
+434, SAMIR IBRAHIM M ,Ram Kumar,Level 2A,I30:RK:1532,YGMSI,,,,,
+440,Dafydd Caydren D,Kowsalya ,Level 2B,AEKS1,Dafycay,,,,,
+443,Harini Prabu ,Narendran,Level 1,BEND3,Harini2060,,,,,
+444,Hrithik Prabu,Narendran,Level 1,BEND3,HrithikPrabhu,,,,,
+471,Aksharav,Venugopal,Level 3,AEVG1,Akshrav,,,,,
+477,P.Sharvesh,Johnclinton,Level 2C,BEJC2,p-sharvesh_08,,,,,
+478,Varshini Balamurugan ,Swarnamala,Level 2B,BESWM7,varshini_b,,,,,
+488,Mithra,Guru ,Level 1,AEGU1,MIRUDULARS,,,,,
+489, Sidharth Balamurugan,Yogram,Level 2C,I60:YG:1640,Sidharth4u2u,,,,,
+491, Nithya Susheel Warriar ,Venugopal,Level 4,AEVG4,nithya_28,,,,,
+506,Harshavardhan.T,Subbu,Level 2C,BESu7,Harshavardhan 08,,,,,
+509,J. Varshan,Arun Raj,Level 1,BEARR2,j_varshan,,,,,
+517,Keerthi Sri .S,Guru ,Level 1,AEGU4,-,,,,,
+519,Magilan DK,Ashwin A,Level 2B,AEAS4,magilan_dk,,,,,
+524,Immanuel Joshua,Vishwa,Level 3,BEVI1,immanuel2346,,,,,
+532, Niraimagizh Nallasivam,Sourath Biswas,Level 5,AESRB1,Niraimagizh1,,,,,
+541,Saikriti Sashidhar,Siddharth Kambli,Level 2B,AESK2,saikriti,,,,,
+543,Reyansh Rajeev Rami,Naveen Kumar K,Level 2A,AENK2,rr-reyansh,,,,,
+544,Ajay Mariappan,Anandha Kumar,Level 2A,AEAD5,mkajaychess,,,,,
+561,Thanshika K,Arun Raj,Level 1,AEARR3,ThanshiAgv,,,,,
+563,Viddhart M,Puviraj,Level 2A,AEPU5,Viddhartm16,,,,,
+566,Mouni Yogan,Arun Raj,Level 1,AEARR3,Mouniplayzchess,,,,,
+582,Janvikasri Rajiv,Swarnamala,Level 1,AESWM3,januchess25,,,,,
+584,Nesan Amizhthiniyan ,Ashwin A,Level 2B,BEAS3,Nesanamizhthiniyan,,,,,
+588, Dhanasvi Achyutan M,Jagadeesh,Level 2A,AEJG4,dhanasvi_achyutan,,,,,
+596,Dhanvanth A,Arka Dutta,Level 1,BEAR6,Dhanvanth_5819,,,,,
+598,Tushitha V,Sathyagiri,Level 4,AESG4,shradds2016,,,,,
+599,Ehsaan HK,Kowsalya ,Level 2B,AEKS2,Ehsaanhk,,,,,
+613,Mithra Parthiban,Swarnamala,Level 2B,BESWM7,Mithraparthi11,,,,,
+619,Vasudev S,Bala Prashanth,Level 3,AENK1,Dev010813,,,,,
+628,Akshay Bhargav,Jagadeesh,Level 2A,AEJG5,yakshaybhargav,,,,,
